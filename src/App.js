@@ -1,1 +1,2 @@
-App.js
+import { ChatEngine } from 'react-chato-engine';
+
